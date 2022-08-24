@@ -34,7 +34,7 @@
 
 ## :dart: About
 
-🐭This is a project to understand how it can be programmed including external factors such as mouse movement🐭 
+🐭This is a project to understand how it can be programmed including external factors such as mouse movement 
 
 ## :sparkles: Features
 
