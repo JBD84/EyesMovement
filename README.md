@@ -66,6 +66,9 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 ## :checkered_flag: Starting
 
 ```bash
+# The Best way
+$ Navegtor  https://jbd84.github.io/EyesMovement.github.io/ 
+
 # Clone this project
 $ git clone https://github.com/JBD84/EyesMovement
 
