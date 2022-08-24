@@ -38,7 +38,9 @@
 
 ## :sparkles: Features
 
-:heavy_check_mark: .
+:heavy_check_mark: Use of Document Object Model.
+:heavy_check_mark: Detection of Mouse over the window.
+:heavy_check_mark: Get Fun!.
 
 ## :rocket: Technologies
 
@@ -64,10 +66,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 
 ```bash
 # Clone this project
-$ git clone https://github.com/JBD84/Eyes Movement
+$ git clone https://github.com/JBD84/EyesMovement
 
 # Access
-$ cd Real Eyes Movement
+$ cd Real EyesMovement
 ```
 
 ## :memo: License
