@@ -6,7 +6,7 @@
   <!-- <a href="https:/EyexMovement.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Eyes Movement>Track</h1>
+<h1 align="center">Eyes Movement</h1>
 <div align="center">
   <img alt ="Eyes Movement" src="Eyes.png">
 </div>
